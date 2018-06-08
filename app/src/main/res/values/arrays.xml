@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Volley를 이용한 통신</item>
+        <item>Dom Parser를 이용한 XML Parse</item>
+        <item>Sax Parser를 이용한 XML Parse</item>
+        <item>XMLPull Parser를 이용한 XML Parse</item>
+        <item>Volley를 이용한 Json Parser</item>
+        <item>RecyclerView 심화내용</item>
+    </string-array>
+    <string-array name="classes">
+        <item>volley.HttpVolleyActivity</item>
+        <item>parser.DomActivity</item>
+        <item>parser.SaxActivity</item>
+        <item>parser.XmlPullActivity</item>
+        <item>parser.JsonActivity</item>
+        <item>recyclerview.RecyclerCardViewActivity</item>
+    </string-array>
+</resources>

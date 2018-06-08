@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Http_Study</string>
+    <string name="title_activity_http_volley">HttpVolleyActivity</string>
+    <string name="title_activity_recycler_card_view">RecyclerCardViewActivity</string>
+</resources>
